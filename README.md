@@ -2,6 +2,7 @@
 
 This project is a web application that fetches data from a text file and generates a histogram of the top 20 most frequently occurring words. It also provides an option to export the data in CSV format.
 
+"To see a live demo of this application, please visit https://main--endearing-chimera-3eeee5.netlify.app/."
 
 ## Usage
 
